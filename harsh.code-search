@@ -1,0 +1,70 @@
+# Query: harsh
+# ContextLines: 1
+
+21 results - 7 files
+
+index.html:
+   6      <meta name="theme-color" content="#0C0C0C" />
+   7:     <meta name="description" content="Harsh Goyal — Developer & Designer. UI/UX, web design, front-end development, and GenAI integration." />
+   8      <link rel="preconnect" href="https://fonts.googleapis.com" />
+
+  13      />
+  14:     <title>Harsh Goyal — Developer & Designer</title>
+  15    </head>
+
+package-lock.json:
+  1  {
+  2:   "name": "harsh-portfolio",
+  3    "version": "0.1.0",
+
+  7      "": {
+  8:       "name": "harsh-portfolio",
+  9        "version": "0.1.0",
+
+package.json:
+  1  {
+  2:   "name": "harsh-portfolio",
+  3    "private": true,
+
+README.md:
+   1: # Harsh Goyal — Developer & Designer Portfolio
+   2  
+   3: A dark-themed personal portfolio for **Harsh Goyal** — Computer Science graduate from NSUT, currently a Content R&D Trainee at PhysicsWallah. Focused on UI/UX, front-end development, and GenAI integration.
+   4  
+
+  61  |---|---|---|
+  62: | ResumeIQ | [resumeiq-harsh.vercel.app](https://resumeiq-harsh.vercel.app) | React, Gemini API, Vercel |
+  63  | Notch | [notch-zeta.vercel.app](https://notch-zeta.vercel.app) | React, Tailwind, Framer Motion |
+
+  79  
+  80: Designed & built by **Harsh Goyal** · [LinkedIn](https://www.linkedin.com/in/harsh-goyal-7900b2256/) · [GitHub](https://github.com/harshgoyal27)
+
+src\components\ContactSection.tsx:
+   14      label: 'Email',
+   15:     value: 'goyalharsh642@gmail.com',
+   16:     href: 'mailto:goyalharsh642@gmail.com',
+   17    },
+
+   27      label: 'LinkedIn',
+   28:     value: 'in/harsh-goyal-7900b2256',
+   29:     href: 'https://www.linkedin.com/in/harsh-goyal-7900b2256/',
+   30    },
+
+   33      label: 'GitHub',
+   34:     value: '@harshgoyal27',
+   35:     href: 'https://github.com/harshgoyal27',
+   36    },
+
+  119            >
+  120:             © 2026 Harsh Goyal
+  121            </span>
+
+src\components\HeroSection.tsx:
+  146                >
+  147:                 Yashwanth<br />Reddy
+  148                </h1>
+
+src\components\ProjectsSection.tsx:
+  38      name: 'ResumeIQ',
+  39:     liveUrl: 'https://resumeiq-harsh.vercel.app/',
+  40      col1Image1: '/resumeiq-hero.png',
