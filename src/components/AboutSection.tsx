@@ -3,7 +3,7 @@ import ContactButton from './ContactButton';
 import AnimatedText from './AnimatedText';
 
 const ABOUT_TEXT =
-  "I'm a first year degree Commerce student and aspiring Chartered Accountant with a passion for learning, creativity, and growth. Alongside my academic journey, I explore technology, website development, AI-powered design, and digital creativity. I enjoy designing professional advertisements, building creative projects, and developing new skills. My goal is to combine business knowledge, technology, and innovation to create meaningful opportunities while continuously improving myself!.";
+  "I’m a creative producer and developer specializing in cinematic video editing, web and app development, and AI automations. Alongside my Commerce degree, I build scalable web applications using Firebase, design automated WhatsApp and business workflows, and craft high-impact video edits. My goal is to combine business logic, clean design, and automation to build systems that drive real results.";
 
 const AboutSection = () => {
   return (
