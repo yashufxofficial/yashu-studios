@@ -29,8 +29,8 @@ const PROJECTS: ProjectData[] = [
       name: 'B2B WHATSAPP LEAD BOT',
       liveUrl: 'https://drive.google.com/file/d/1UuHaDW2XviVXDZmfUpcl8KWe7CgAAJvS/view?usp=drive_link',
       col1Image1: '/AI1.jfif',
-      col1Image2: '/AI2.jfif',
-      col2Image: '/AI3.jfif',
+      col1Image2: 'public/automation.png',
+      col2Image: 'public/finance.png',
     },
   {
     number: '03',
