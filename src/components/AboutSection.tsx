@@ -99,20 +99,16 @@ const AboutSection = () => {
                       <div className="flex flex-col gap-5 sm:gap-6">
                         {[
                           {
-                            label: 'Academic & Commerce',
-                            items: ['Accountancy', 'Document Management', 'Data Entry', 'Microsoft Excel', 'Microsoft Word', 'Microsoft Powerpoint'],
+                            label: 'TECHNOLOGY & DEVELOPMENT',
+                            items: ['Web & App Development', 'Firebase & Firestore', 'GitHub', 'VS Code', 'Vercel'],
                           },
                           {
-                            label: 'Technology & Development',
-                            items: ['Website Development', 'Github', 'VS Code', 'Vercel', 'Basic web technologies'],
+                            label: 'CREATIVE & DESIGN',
+                            items: ['Cinematic Video Editing', 'AI Poster Design', 'Content Creation', 'Brand Identity'],
                           },
                           {
-                            label: 'Creative & Design',
-                            items: ['AI Poster Design', 'Canva', 'Video Editing', 'Content Creation', 'Social media management'],
-                          },
-                          {
-                            label: 'AI & Productivity Tools',
-                            items: ['Chat GPT', 'Claude', 'Gemini', 'Prompt engineering', 'AI Content Creation'],
+                            label: 'AI & AUTOMATION',
+                            items: ['n8n', 'Make', 'WhatsApp Cloud API', 'AI Chatbots', 'Prompt Engineering'],
                           },
                         ].map((group) => (
                           <div
