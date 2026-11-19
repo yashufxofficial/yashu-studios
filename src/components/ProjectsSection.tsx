@@ -20,7 +20,7 @@ const PROJECTS: ProjectData[] = [
         name: 'Video Editing Showcase',
         liveUrl: 'https://drive.google.com/drive/folders/1s-Vx1F70bNiRYwpGAr-T8-tk_4M-LVt_',
         col1Image1: '/Creative Media1.png',
-        col1Image2: '/Creative Media2.png',
+        col1Image2: 'public/edit.jfif',
         col2Image: '/Creative Media3.png',
       },
   {
