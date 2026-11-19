@@ -16,7 +16,7 @@ interface ProjectData {
 const PROJECTS: ProjectData[] = [
     {
         number: '01',
-        category: 'Creative Media',
+        category: 'Creative & Design',
         name: 'Video Editing Showcase',
         liveUrl: 'https://drive.google.com/drive/folders/1s-Vx1F70bNiRYwpGAr-T8-tk_4M-LVt_',
         col1Image1: '/Creative Media1.png',
@@ -25,18 +25,18 @@ const PROJECTS: ProjectData[] = [
       },
   {
       number: '02',
-      category: 'Digital Design',
-      name: 'AI Advertisement Collection',
-      liveUrl: 'https://drive.google.com/drive/folders/1s-Vx1F70bNiRYwpGAr-T8-tk_4M-LVt_',
+      category: 'AI & Automation',
+      name: 'B2B WHATSAPP LEAD BOT',
+      liveUrl: 'https://drive.google.com/file/d/1UuHaDW2XviVXDZmfUpcl8KWe7CgAAJvS/view?usp=drive_link',
       col1Image1: '/AI1.jfif',
       col1Image2: '/AI2.jfif',
       col2Image: '/AI3.jfif',
     },
   {
     number: '03',
-    category: 'Office solutions',
-    name: 'Data Entry & Office Services',
-    liveUrl: 'https://drive.google.com/drive/folders/1s-Vx1F70bNiRYwpGAr-T8-tk_4M-LVt_',
+    category: 'WEB & APP DEVELOPMENT',
+    name: 'FINANCE SYSTEM V3',
+    liveUrl: 'https://projectsystemv3-2c74b.web.app/',
     col1Image1: '/Data1.jfif',
     col1Image2: '/Data2.jfif',
     col2Image: '/Data3.jfif',
