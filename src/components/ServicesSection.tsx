@@ -1,36 +1,30 @@
 import FadeIn from './FadeIn';
 
 
-const SERVICES = [
+const services = [
   {
-    number: '01',
-    title: 'Data Entry & Office Services',
+    number: "01",
+    title: "CINEMATIC VIDEO EDITING",
     description:
-      'Providing accurate data entry, spreadsheet management, document preparation, internet research, and office productivity solutions.',
+      "Crafting high-impact reels, theatrical pacing, sound design, and promotional edits in DaVinci Resolve with a focus on storytelling and audience retention.",
   },
   {
-    number: '02',
-    title: 'Poster & Advertisement Design',
+    number: "02",
+    title: "AI AUTOMATIONS & CHATBOTS",
     description:
-      'Designing eye-catching posters, product advertisements, promotional banners, and marketing materials that help brands stand out',
+      "Building intelligent WhatsApp lead-qualification chatbots and automated business workflows using n8n, Make, and the WhatsApp Cloud API.",
   },
   {
-    number: '03',
-    title: 'Professional Video Editing',
+    number: "03",
+    title: "WEB & APP DEVELOPMENT",
     description:
-      'Editing high-quality videos, reels, promotional content, and social media videos with a focus on creativity, storytelling, and audience engagement.',
+      "Developing modern, responsive, and offline-capable web applications and custom digital tools powered by Firebase and Cloud Firestore.",
   },
   {
-    number: '04',
-    title: 'Website Development',
+    number: "04",
+    title: "POSTER & BRAND DESIGN",
     description:
-      'Creating modern, responsive, and professional websites for businesses, students, creators, and organizations.',
-  },
-  {
-    number: '05',
-    title: 'Social Media Management',
-    description:
-      'Managing social media pages, business accounts, posting schedules, audience engagement, and overall online presence across digital platforms.',
+      "Designing eye-catching digital advertisements, promotional banners, and social media visuals that help brands stand out online.",
   },
 ];
 
